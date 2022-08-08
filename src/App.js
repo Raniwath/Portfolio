@@ -11,7 +11,7 @@ export default function App() {
   return (
 
     <>
-      <BrowserRouter basename={process.env.PUBLIC_URL}>
+      <BrowserRouter>
       <Navbar />
         <Routes>
           <Route path="#scoll" element={ <Scrolling_page /> } />
