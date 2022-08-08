@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Raniwath/Portfolio/static/css/main.2238b274.css",
+    "main.js": "/Raniwath/Portfolio/static/js/main.4cef4bfe.js",
+    "static/media/linkedInPicKomal.jpg": "/Raniwath/Portfolio/static/media/linkedInPicKomal.02bf62a8b99a6e83ba31.jpg",
+    "index.html": "/Raniwath/Portfolio/index.html",
+    "main.2238b274.css.map": "/Raniwath/Portfolio/static/css/main.2238b274.css.map",
+    "main.4cef4bfe.js.map": "/Raniwath/Portfolio/static/js/main.4cef4bfe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2238b274.css",
+    "static/js/main.4cef4bfe.js"
+  ]
+}
