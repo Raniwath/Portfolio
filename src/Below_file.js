@@ -1,6 +1,6 @@
 import React from "react";
 import { Row, Col, Input, Button } from 'antd'
-import 'antd/dist/antd.css'
+import 'antd/dist/antd.min.css'
 import './index.css'
 
 export default function Below_file() {

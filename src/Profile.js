@@ -1,6 +1,6 @@
 import React from "react";
 import { Image } from "antd";
-import 'antd/dist/antd.css'
+import 'antd/dist/antd.min.css'
 import './index.css'
 import linkedInPicKomal from './Image/linkedInPicKomal.jpg'
 
